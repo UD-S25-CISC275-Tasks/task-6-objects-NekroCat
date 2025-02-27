@@ -1,4 +1,3 @@
-import { resolveTypeReferenceDirective } from "typescript";
 import { Question, QuestionType } from "./interfaces/question";
 
 /**
